@@ -24,3 +24,10 @@ int main(void)
     bool_1();
     bool_2();
 }
+
+/*
+    Operator 	Boolean meaning
+    && 	        and
+    || 	        or
+    ! 	        not
+*/
