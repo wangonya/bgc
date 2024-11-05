@@ -10,9 +10,4 @@ int main(void)
 
     snprintf(s, 10, "%f", f);
     printf("String value: %s\n", s); // String value: 3.142000
-
-    char s2[2];
-    int i = 1;
-    snprintf(s2, 2, "%d", i);
-    printf("String value: %s\n", s2); // String value: 3.142000
 }
